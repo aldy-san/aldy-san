@@ -1,4 +1,4 @@
-### Hello Minnasan.. nama saya aldi 👋 
+### Yo Minnasan.. nama saya aldi 👋 
 
 Saya ada lah seorang mahasiswa Teknik Informatika dari Universitas Negeri Malang.
 Sekarang saya sedang berkeinginan untuk menjadi Web Developer dan Game Developer, tapi untuk saat ini saya masih mengutamakan untuk belajar Web, Front-end lebih tepatnya.
