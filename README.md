@@ -1,4 +1,4 @@
-### Yo Minnasan.. nama saya aldi 👋 
+### Yo Minnasan.. nama saya Nur Syahrial Maulidi, biasa dipanggil Aldi👋
 
 Saya adalah seorang mahasiswa Teknik Informatika dari Universitas Negeri Malang.
 Sekarang saya sedang berkeinginan untuk menjadi Web Developer dan Game Developer, tapi untuk saat ini saya masih mengutamakan untuk belajar Web, Front-end lebih tepatnya.
