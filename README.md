@@ -9,10 +9,10 @@
 
 ### Github Stats
 <p align="left">
-<a href="https://github.com/MohammadNawawi">
+<a href="https://github.com/aldy-san">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldy-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldy-san&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aldy-san&theme=tokyonight" alt="MohammadNawawi"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aldy-san&theme=tokyonight" alt="aldy-san"/>
 </a>
 </p>
 
