@@ -2,7 +2,7 @@
 <h3 align="center">But, you can call me <b>Aldi</b></h3>
 
 ### Personal Stuff
-- 🔭 I’m currently as College Student at [Universitas Negeri Malang](https://dipainhouse.com/);
+- 🔭 I’m currently as College Student at [Universitas Negeri Malang](https://um.ac.id/);
 - 💻 All of my projects are available at [My Portofolio](http://aldi-maulidi.vercel.app/)
 - 📱 Vivo V7 / 💻 HP Pavilion Gaming 15 2019
 - 📫 How to reach me: [ald_iiii](https://twitter.com/ald_iiii) or email me at **nsmaulidi12@gmail.com**  ;
