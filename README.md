@@ -4,7 +4,7 @@
 ### Personal Stuff
 - 🔭 I’m currently as College Student at [Universitas Negeri Malang](https://dipainhouse.com/);
 - 💻 All of my projects are available at [My Portofolio](http://aldi-maulidi.vercel.app/)
-- 📱 Poco X3 NFC / 💻 Mi Notebook Pro 15 2018
+- 📱 Vivo V7 / 💻 HP Pavilion Gaming 15
 - 📫 How to reach me: [ald_iiii](https://twitter.com/ald_iiii) or email me at **nsmaulidi12@gmail.com**  ;
 
 ### Github Stats
