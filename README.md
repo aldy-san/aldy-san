@@ -3,9 +3,9 @@
 
 ### Personal Stuff
 - 🔭 I’m currently as College Student at [Universitas Negeri Malang](https://um.ac.id/);
-- 💻 All of my projects are available at [My Portofolio](http://aldi-maulidi.vercel.app/)
+- 💻 All of my projects are available at [My Portofolio](http://aldimaulidi.my.id/)
 - 📱 Vivo V7 / 💻 HP Pavilion Gaming 15 2019
-- 📫 How to reach me: [ald_iiii](https://twitter.com/ald_iiii) or email me at **nsmaulidi12@gmail.com**  ;
+- 📫 How to reach me: [nursmdev](https://twitter.com/nursmdev) or email me at **nsmaulidi12@gmail.com**  ;
 
 ### Github Stats
 <p align="left">
