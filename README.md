@@ -4,7 +4,7 @@
 ### Personal Stuff
 - 🔭 I’m currently as College Student at [Universitas Negeri Malang](https://um.ac.id/);
 - 💻 All of my projects are available at [My Portofolio](http://aldimaulidi.my.id/)
-- 📱 Vivo V7 / 💻 HP Pavilion Gaming 15 2019
+- 📱 Vivo T1 Pro 5G / 💻 HP Pavilion Gaming 15 2019
 - 📫 How to reach me: [nursmdev](https://twitter.com/nursmdev) or email me at **nsmaulidi12@gmail.com**  ;
 
 ### Github Stats
